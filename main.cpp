@@ -228,7 +228,7 @@ void calculatePlayerPosition(Entity &entity, int16_t &xPlayer, int16_t &yPlayer)
 //
 //  Do the two entities overlap?
 //
-bool collide(Player player, Enemy enemy) {
+bool collide(Player &player, Enemy &enemy) {
 
     return !(enemy.x                >= player.x + player.width  ||
              enemy.x + enemy.width  <= player.x                 ||
