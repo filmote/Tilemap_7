@@ -442,6 +442,90 @@
 		},
 		"/Tilemap_7.bin": {
 			"sdcard": false
+		},
+		"\\images": {
+			"sdcard": false
+		},
+		"\\Tilemap_7.bin": {
+			"sdcard": false
+		},
+		"\\Tilemap_7.elf": {
+			"sdcard": false
+		},
+		"\\images\\Brick.png": {
+			"sdcard": false
+		},
+		"\\images\\Brick.h": {
+			"sdcard": false
+		},
+		"\\images\\Carpet.h": {
+			"sdcard": false
+		},
+		"\\images\\Carpet.png": {
+			"sdcard": false
+		},
+		"\\images\\Door_Closed.png": {
+			"sdcard": false
+		},
+		"\\images\\Door_Closed.h": {
+			"sdcard": false
+		},
+		"\\images\\Door_Open.h": {
+			"sdcard": false
+		},
+		"\\images\\Grass.h": {
+			"sdcard": false
+		},
+		"\\images\\Enemy.h": {
+			"sdcard": false
+		},
+		"\\images\\Door_Open.png": {
+			"sdcard": false
+		},
+		"\\images\\Enemy.png": {
+			"sdcard": false
+		},
+		"\\images\\Grass.png": {
+			"sdcard": false
+		},
+		"\\images\\Green.png": {
+			"sdcard": false
+		},
+		"\\images\\Key.h": {
+			"sdcard": false
+		},
+		"\\images\\Images.h": {
+			"sdcard": false
+		},
+		"\\images\\Green.h": {
+			"sdcard": false
+		},
+		"\\images\\Key.png": {
+			"sdcard": false
+		},
+		"\\images\\Player.h": {
+			"sdcard": false
+		},
+		"\\images\\Player.png": {
+			"sdcard": false
+		},
+		"\\images\\Tree.h": {
+			"sdcard": false
+		},
+		"\\images\\Tree.png": {
+			"sdcard": false
+		},
+		"\\images\\Water.h": {
+			"sdcard": false
+		},
+		"\\images\\Water.png": {
+			"sdcard": false
+		},
+		"\\Tilemap_7.bin.1.png": {
+			"sdcard": false
+		},
+		"\\Tilemap_7.bin.1.h": {
+			"sdcard": false
 		}
 	}
 }

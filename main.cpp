@@ -542,15 +542,15 @@ int main() {
     // Initialise the map ..
     
     tilemap.set(16, 16, worldMap);
-    tilemap.tiles[TileType::Green] = Images::green16;
-    tilemap.tiles[TileType::Tree] = Images::tree16;
-    tilemap.tiles[TileType::Grass] = Images::grass16;
-    tilemap.tiles[TileType::Water] = Images::water16;
-    tilemap.tiles[TileType::Brick] = Images::brick16;
-    tilemap.tiles[TileType::Door_Open] = Images::door_open16;
-    tilemap.tiles[TileType::Door_Closed] = Images::door_closed16;
-    tilemap.tiles[TileType::Key] = Images::key16;
-    tilemap.tiles[TileType::Carpet] = Images::carpet16;
+    tilemap.setTile(TileType::Green, Images::Green);
+    tilemap.setTile(TileType::Tree, Images::Tree);
+    tilemap.setTile(TileType::Grass, Images::Grass);
+    tilemap.setTile(TileType::Water, Images::Water);
+    tilemap.setTile(TileType::Brick, Images::Brick);
+    tilemap.setTile(TileType::Door_Open, Images::Door_Open);
+    tilemap.setTile(TileType::Door_Closed, Images::Door_Closed);
+    tilemap.setTile(TileType::Key, Images::Key);
+    tilemap.setTile(TileType::Carpet, Images::Carpet);
 
 
     // Position the player into a vacant spot on the map ..
