@@ -535,8 +535,6 @@ int main() {
     PD::invisiblecolor = 12;
     PD::loadRGBPalette(palettePico);   
     PD::setFont(fontC64);
-    PC::setFrameRate(200);
-
 
 
     // Initialise the map ..
