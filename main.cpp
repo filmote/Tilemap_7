@@ -274,7 +274,6 @@ void updateTileType(uint16_t tileIndex, TileType tileType) {
         worldMap[tileIndex] = tileType;
     
     #endif
-    
             
 }
 
